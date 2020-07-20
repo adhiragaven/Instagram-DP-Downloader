@@ -7,6 +7,5 @@ $ pip install instaloader
 
 This code download only Profile Pic, so I have used (profile pic only='True')
 
-OUTPUT BE LIKE:
-
+WHERE TO FIND?
 You can find the downloaded profile pic in the path file where you have code
